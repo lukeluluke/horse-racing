@@ -1,0 +1,47 @@
+.full_screen{
+  min-height: 100vh;
+}
+
+
+.padding_50{
+  padding: 50px;
+}
+
+.home_title{
+  font-size: 30px;
+  width: 100%;
+  text-align: center;
+  color: #1C75BC;
+}
+
+.page_title {
+  font-size: 25px;
+  color: #1C75BC;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.competition_list {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+}
+
+.page_label {
+  font-weight: bold;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.event_venue_select {
+  margin: 25px 0;
+}
+
+.timer {
+  color: green;
+}
+
+.runner_list {
+  max-width: 400px;
+}
+
